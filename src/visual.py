@@ -9,3 +9,4 @@ lb = Label(root,text='我是第一个标签',\
         relief=SUNKEN)
 lb.pack()
 root.mainloop()
+123
