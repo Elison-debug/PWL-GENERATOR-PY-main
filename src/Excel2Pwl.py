@@ -12,7 +12,7 @@ voltage_level = 5
 # risetime=10
 # falltime=20
 
-wb = load_workbook(filename="test.xlsx")
+wb = load_workbook(filename="src/test.xlsx")
 with open (result_name,"w+") as f: 
     f.write("design by Elison\n")
 #f = open("my_file.txt", 'w+',encoding = "utf-8")
